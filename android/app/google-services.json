@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968297504309",
+    "project_id": "watchhub-e2a75",
+    "storage_bucket": "watchhub-e2a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968297504309:android:c5b33bbae1a6ca00eadb7c",
+        "android_client_info": {
+          "package_name": "com.example.watchhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xIOISvMZs6cEZoDqe7JMdm7WfgDsGLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
